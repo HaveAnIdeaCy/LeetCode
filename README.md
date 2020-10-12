@@ -1,5 +1,8 @@
-# LeetCode[1]
-Record code
+#LeetCode 
+
+Record code[leetcode][1]
 
 
-[1]:https://leetcode-cn.com
+
+[1]: https://leetcode-cn.com
+
