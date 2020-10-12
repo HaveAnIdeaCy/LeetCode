@@ -1,6 +1,6 @@
 #LeetCode 
 
-Record code[leetcode][1]
+Record code [leetcode][1]
 
 
 
